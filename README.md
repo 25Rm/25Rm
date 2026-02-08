@@ -4,7 +4,6 @@
 
 <h4>👨‍💻 Software Development Projects:</h4>
 
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/my-portfolio/AD_PS)
+
 
 
